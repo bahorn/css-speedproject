@@ -1,0 +1,44 @@
+.speedproject {
+    position: relative;
+    text-align: center;
+    width: 230px;
+    height: 242px;
+    color: red;
+    font-size: 32px;
+}
+
+.sp5 {
+    position: absolute;
+    bottom: 70px;
+    left: 40px;
+}
+
+.sp10 {
+    position: absolute;
+    bottom: 40px;
+    left: 50px;
+}
+
+.sp30 {
+    position: absolute;
+    bottom: 10px;
+    left: 55px;
+}
+
+.sp60 {
+    position: absolute;
+    bottom: 95px;
+    left: 145px;
+}
+
+.sp240 {
+    position: absolute;
+    bottom: 65px;
+    left: 150px;
+}
+
+.sp480 {
+    position: absolute;
+    bottom: 40px;
+    left: 160px;
+}
